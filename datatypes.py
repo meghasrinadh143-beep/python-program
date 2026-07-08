@@ -1,0 +1,33 @@
+Python 3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> #datatype
+>>> a=5
+>>> type(a)
+<class 'int'>
+>>> b=7.8
+>>> type(b)
+<class 'float'>
+>>> c='code'
+>>> type(c)
+<class 'str'>
+>>> d="code"
+>>> type(d)
+<class 'str'>
+>>> e='''code'''
+>>> type(e)
+<class 'str'>
+>>> f=6j
+>>> type(f)
+<class 'complex'>
+>>> g=6+7j
+>>> type(g)
+<class 'complex'>
+>>> h=4j+8
+>>> type(h)
+<class 'complex'>
+>>> i=True
+>>> type(i)
+<class 'bool'>
+>>> j=False
+>>> type(j)
+<class 'bool'>
